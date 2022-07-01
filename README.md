@@ -1,4 +1,4 @@
-# AS Physics Notes
+# AS Notes
 
 ## Serious Work in Progress!
 
